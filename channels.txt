@@ -319,32 +319,8 @@ http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="VLC" tvg-id="Antena 3 Series" tvg-logo="" tvg-name="Antena 3 Series",Antena 3 Series
-https://atres-live.atresmedia.com/84158ebc0c8885cccef1dbfe95c7cdd695718690_ES_1664474768_1664503508/h264/live/a3series/master.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Antena 3" tvg-logo="" tvg-name="Antena 3",Antena 3
-https://atres-live.atresmedia.com/de1b7bac92e972761d016515289c3c4ce7499dea_ES_1664474298_1664503038/h264/live/antena3/master.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Antena 3 HD" tvg-logo="" tvg-name="Antena 3 HD",Antena 3 HD
-http://photocall.xyz/ks4g/a3m?ch=atreseries
-#EXTINF:-1 group-title="VLC" tvg-id="Real Betis TV" tvg-logo="" tvg-name="Real Betis TV",Real Betis TV
-https://backend.flumotion.com/api/v1/player_site/?asset=991046&player=615
-#EXTINF:-1 group-title="VLC" tvg-id="Gol Spain" tvg-logo="" tvg-name="Gol Spain",Gol Spain
-https://www.goltelevision.com/en-directo
-#EXTINF:-1 group-title="VLC" tvg-id="TDP" tvg-logo="" tvg-name="TDP",TDP
-http://91.126.141.13:1935/live/91/1400-def.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="Movista LaLiga" tvg-logo="" tvg-name="Movistar LaLiga",Movistar LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Antena 3 bis" tvg-logo="" tvg-name="Antena 3 bis",Antena 3 bis
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/3c4f6df40f586ddb061fca1ff0ab0bf87973b442_1635468712/antena3/bitrate_4.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="La Sexta" tvg-logo="" tvg-name="La Sexta",La Sexta
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/70f935154f65972e9f244c54048105a07ea2409c_1635457355/lasexta/bitrate_4.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Neox" tvg-logo="" tvg-name="Neox",Neox
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/518d9463e7a2c3edfd16a2bcb72540814d3deec7_1635463091/geoneox/bitrate_4.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Nova" tvg-logo="" tvg-name="Nova",Nova
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/7908849782ea2fb912be8b7dc4fa25b8158150ca_1635463113/geonova/bitrate_4.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Mega" tvg-logo="" tvg-name="Mega",Mega
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/69271977a08cc6e26dd4b72ad7de47e406b48a38_1635453173/geomega/bitrate_4.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="A3Series" tvg-logo="" tvg-name="A3Series",A3Series
-http://hls.webredirect.org/h4gs/mp_4953.php/https://directo.atresmedia.com/7213eb9f0f6c91dea8cff0c3565828553e69e170_1635453132/geoa3series/bitrate_4.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="Clan TV" tvg-logo="" tvg-name="Clan TV",Clan TV
 https://rtvelivestream.akamaized.net/segments/clan/clan_main.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="Teledeporte" tvg-logo="" tvg-name="Teledeporte",Teledeporte
@@ -359,12 +335,6 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_360.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="El Toro Tv" tvg-logo="" tvg-name="El Toro TV",El Toro TV
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="A3Cine" tvg-logo="" tvg-name="A3Cine",A3Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Real Madrid TV" tvg-logo="" tvg-name="Real Madrid TV",Real Madrid TV
-http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Cuatro" tvg-logo="" tvg-name="Cuatro",Cuatro
-http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4&hlc=1&spv=0
 #EXTINF:-1 group-title="VLC" tvg-id="GOL_HD" tvg-logo="" tvg-name="GOL HD",GOL HD
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718&hlc=1&spv=0
 #EXTINF:-1 group-title="VLC" tvg-id="TELEDEPORTE_HD" tvg-logo="" tvg-name="TELEDEPORTE HD",TELEDEPORTE HD
@@ -373,8 +343,6 @@ http://127.0.0.1:6878/ace/getstream?id=a537d162cb8c5cfa72c09be09ecac69e2f2cc535&
 http://127.0.0.1:6878/ace/getstream?id=cc5f7b6ea29b19b5ec6eef565d49a698340b4943&hlc=1&spv=0
 #EXTINF:-1 group-title="VLC" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" tvg-name="RealMadrid TV",RealMadrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
