@@ -355,3 +355,5 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="VLC" tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" tvg-name="Documentales", Documentales
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 4K
+http://127.0.0.1:6878/ace/getstream?id=81860fcb1546fd44c88927d978c881c9acdda35a
