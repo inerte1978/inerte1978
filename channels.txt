@@ -357,3 +357,23 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 4K
 http://127.0.0.1:6878/ace/getstream?id=81860fcb1546fd44c88927d978c881c9acdda35a
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Select
+http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Racing
+http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Golf
+http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal
+http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Racing
+http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 1
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 2
+http://127.0.0.1:6878/ace/getstream?id=5817f9d710d682fe975a16c47306bfdced437319
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 3
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Win Sport" tvg-id="" tvg-logo="" ,Win Sport Colombia
+http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
