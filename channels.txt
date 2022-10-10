@@ -281,7 +281,7 @@ http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports Xtra
 http://127.0.0.1:6878/ace/getstream?id=bc93e4025f4e661367f362e74e680bc247d4ed4e
-#EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://www.freepng.es/png-jcfxzz/" ,Bein Sports 1
+#EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 2
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
