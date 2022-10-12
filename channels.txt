@@ -379,3 +379,25 @@ http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones UHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones UHD
 http://127.0.0.1:6878/ace/getstream?id=de2074f9558653838083f180af86939013bd7f50
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 1 Bar hd
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 2 Bar hd
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 1
+http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 2
+http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1 group-title="EuroSport Alemant" tvg-id="Eurosport360 HD 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 3
+http://127.0.0.1:6878/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 4
+http://127.0.0.1:6878/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 5
+http://127.0.0.1:6878/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 6" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 6
+http://127.0.0.1:6878/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 7" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 7
+http://127.0.0.1:6878/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 8" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 8
+http://127.0.0.1:6878/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 9" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 9
+http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
