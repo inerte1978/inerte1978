@@ -401,3 +401,15 @@ http://127.0.0.1:6878/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
 http://127.0.0.1:6878/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 9" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 9
 http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=c081a7eabe6eea6112624b1f7d5abd18de2bf247
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=3832fe79145c6ca781d8c4fc4badab59cdad0382
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=541188d4c73b20e7779f226910499b3803ee6875
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Premiere FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Premiere FHD
+http://127.0.0.1:6878/ace/getstream?id=1f2a653c427edfc7c9d3db31cfe92f3a243a2326
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match TV FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match TV FHD
+http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ORF SPORT+ HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,ORF SPORT+ HD
+http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
