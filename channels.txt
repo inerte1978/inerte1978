@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml"
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA
 http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA HD
