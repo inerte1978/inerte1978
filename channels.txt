@@ -413,3 +413,15 @@ http://127.0.0.1:6878/ace/getstream?id=1f2a653c427edfc7c9d3db31cfe92f3a243a2326
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ORF SPORT+ HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,ORF SPORT+ HD
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
+#EXTINF:-1 group-title="Evento 1" tvg-id="" tvg-logo="" ,Evento 1
+http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=f27a8df4c15bdc1ff616d8c4fa439a66aa5608f1
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=928a24e58c7a9d53cc1296107eaae6cc204282ca
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
