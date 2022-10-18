@@ -425,5 +425,4 @@ http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
 #EXTINF:-1 group-title="Evento" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
 http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
-#EXTINF:-1 group-title="VLC" tvg-id="El Agente Invisible" tvg-logo="" ,El Agente Invisible
-http://127.0.0.1:32400/ace/getstream?id=mv6dpqj2g2re7quciant3nzl
+
