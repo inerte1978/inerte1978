@@ -425,3 +425,5 @@ http://127.0.0.1:6878/ace/getstream?id=928a24e58c7a9d53cc1296107eaae6cc204282ca
 http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
 #EXTINF:-1 group-title="Evento" tvg-id="Evento 6" tvg-logo="" ,Evento 6
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
+#EXTINF:-1 group-title="Evento" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
+http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
