@@ -245,12 +245,10 @@ http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 11 HD
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV [US]
-http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV 2
-http://127.0.0.1:6878/ace/getstream?id=6ba718a6f5a638e2ae15de6904ea2fa553895856
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA 1 [US]
 http://127.0.0.1:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA 2 [US]
+http://127.0.0.1:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
 #EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1 HD
