@@ -375,7 +375,8 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 #EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
 http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones UHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES",LIGA DE CAMPEONES 4K pruebas
+acestream://de2074f9558653838083f180af86939013bd7f50
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="DAZN Aleman" tvg-id="DAZN 1 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 1 Bar hd
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
@@ -425,3 +426,15 @@ http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
 #EXTINF:-1 group-title="Evento" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
 http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Sevilla VS Valencia 720 19:00", Sevilla VS Valencia 720 19:00
+acestream://313c3c992dc7017e2a80310bb6b75ff30b410280
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 2K", Dazn Liga 2K
+acestream://6b7cdac10ea811b0ce1f8a660eb93da8784aa073
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+acestream://1020ab853036c45eb44ff75c314715474e994f2d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+acestream://68d44340c4ae916ccb9ef0dcdc0ac6370ca2ea28
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+acestream://7ab900af72f56eca96503f683ea24febaa2db0bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 720 J
+acestream://0552bc52bbf60706062c28f4a5fa7e6dbd27fe30
