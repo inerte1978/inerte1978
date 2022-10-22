@@ -412,35 +412,35 @@ http://127.0.0.1:6878/ace/getstream?id=1f2a653c427edfc7c9d3db31cfe92f3a243a2326
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ORF SPORT+ HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,ORF SPORT+ HD
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 1" tvg-logo="" ,Evento 1
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 1" tvg-logo="" ,Evento 1
 http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 2" tvg-logo="" ,Evento 2
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 2" tvg-logo="" ,Evento 2
 http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 3" tvg-logo="" ,Evento 3
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 3" tvg-logo="" ,Evento 3
 http://127.0.0.1:6878/ace/getstream?id=f27a8df4c15bdc1ff616d8c4fa439a66aa5608f1
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 4" tvg-logo="" ,Evento 4
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 4" tvg-logo="" ,Evento 4
 http://127.0.0.1:6878/ace/getstream?id=928a24e58c7a9d53cc1296107eaae6cc204282ca
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 5" tvg-logo="" ,Evento 5
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 5" tvg-logo="" ,Evento 5
 http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 6" tvg-logo="" ,Evento 6
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 6" tvg-logo="" ,Evento 6
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
-#EXTINF:-1 group-title="Evento" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
+#EXTINF:-1 group-title="Eventual" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
 http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Sevilla VS Valencia 720 19:00", Sevilla VS Valencia 720 19:00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Sevilla VS Valencia 720 19:00", Sevilla VS Valencia 720 19:00
 acestream://313c3c992dc7017e2a80310bb6b75ff30b410280
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 2K", Dazn Liga 2K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 2K", Dazn Liga 2K
 acestream://6b7cdac10ea811b0ce1f8a660eb93da8784aa073
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
 acestream://1020ab853036c45eb44ff75c314715474e994f2d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
 acestream://68d44340c4ae916ccb9ef0dcdc0ac6370ca2ea28
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
 acestream://7ab900af72f56eca96503f683ea24febaa2db0bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LaLiga" tvg-id="Dazn Liga 1080 J", Dazn Liga 720 J
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 720 J
 acestream://0552bc52bbf60706062c28f4a5fa7e6dbd27fe30
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV [US]
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Eventual" tvg-id="eventual 4K (F1)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" , eventual 4K (F1)
 http://127.0.0.1:6878/ace/getstream?id=6ab9beb4fba3759688f201e941099b7e0c75ecec
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
+#EXTINF:-1 group-title="Eventual" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
