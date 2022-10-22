@@ -440,7 +440,7 @@ acestream://7ab900af72f56eca96503f683ea24febaa2db0bc
 acestream://0552bc52bbf60706062c28f4a5fa7e6dbd27fe30
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV [US]
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes HD eventual
-http://127.0.0.1:6878/ace/getstream?id=8100d8f6f91008535b64927368f005fd9febb449
+#EXTINF:-1 group-title="Eventual" tvg-id="eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" , eventual
+http://127.0.0.1:6878/ace/getstream?id=6ab9beb4fba3759688f201e941099b7e0c75ecec
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
