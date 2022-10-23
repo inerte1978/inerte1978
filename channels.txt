@@ -376,7 +376,6 @@ http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 #EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
 http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES",LIGA DE CAMPEONES 4K pruebas
-acestream://de2074f9558653838083f180af86939013bd7f50
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="DAZN Aleman" tvg-id="DAZN 1 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 1 Bar hd
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
@@ -426,8 +425,6 @@ http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
 #EXTINF:-1 group-title="Eventual" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
 http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Sevilla VS Valencia 720 19:00", Sevilla VS Valencia 720 19:00
-acestream://313c3c992dc7017e2a80310bb6b75ff30b410280
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 2K", Dazn Liga 2K
 acestream://6b7cdac10ea811b0ce1f8a660eb93da8784aa073
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
@@ -444,5 +441,5 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://127.0.0.1:6878/ace/getstream?id=517fccc871a669b0ca2c2cb8a7036bddf1c6a8d9
 #EXTINF:-1 group-title="Eventual" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
-#EXTINF:-1 group-title="Pelis VLC" tvg-id="Jungle Cruise 2021" tvg-logo="" ,Jungle Cruise 2021
-http://192.168.1.132:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
+#EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
+http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
