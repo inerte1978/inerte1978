@@ -444,3 +444,5 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://127.0.0.1:6878/ace/getstream?id=6ab9beb4fba3759688f201e941099b7e0c75ecec
 #EXTINF:-1 group-title="Eventual" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Jungle Cruise 2021" tvg-logo="" ,Jungle Cruise 2021
+http://192.168.1.132:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
