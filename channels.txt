@@ -443,5 +443,5 @@ http://127.0.0.1:6878/ace/getstream?id=517fccc871a669b0ca2c2cb8a7036bddf1c6a8d9
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 #EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
-#EXTINF:-1 group-title="VLC" tvg-id="Jungle Cruise" tvg-logo="" ,Jungle Cruise 20
-http://127.0.0.1:32400/web/index.html#!/server/f2133b9f8cbbabb52c9480816e14af53d6591400/details?key=%2Flibrary%2Fmetadata%2F23308&context=library%3Acontent.library~6~1
+#EXTINF:-1 group-title="VLC" tvg-id="Jungle Cruise" tvg-logo="" ,Jungle Cruise 2021
+http://127.0.0.1:6878/web/index.html#!/server/f2133b9f8cbbabb52c9480816e14af53d6591400/details?key=%2Flibrary%2Fmetadata%2F23308&context=library%3Acontent.library~6~1
