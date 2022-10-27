@@ -443,37 +443,3 @@ http://127.0.0.1:6878/ace/getstream?id=517fccc871a669b0ca2c2cb8a7036bddf1c6a8d9
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 #EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jADle-rIf309wlhGvayOTVz.png" group-title="NBA",PT: SPORT TV NBA HD HEVC
-http://278019811476307845.nicetesbot.xyz:80/play/146/146/307845.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="NBA",PT: SPORT TV NBA HD
-http://278019811476307846.nicetesbot.xyz:80/play/146/146/307846.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HQ H264 HD" tvg-logo="" group-title="NBA",PT: SPORT TV NBA HQ H264 HD
-http://278019811476307847.nicetesbot.xyz:80/play/146/146/307847.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jADle-rIf309wlhGvayOTVz.png" group-title="NBA",PT: SPORT TV NBA FHD
-http://278019811476317988.nicetesbot.xyz:80/play/146/146/317988.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png" group-title="NBA",PT: NBA TV HD
-http://278019811476323192.nicetesbot.xyz:80/play/146/146/323192.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwT4z85YQMy_ZJoq312R9-Z8kKMMxTQWXRzOEfMdeijfXQ.png" group-title="NBA",IT: SKY SPORT NBA HD
-http://278019811476312020.nicetesbot.xyz:80/play/146/146/312020.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT1Rtt8nHD1tg9HkyrnhosH8XttCsYn5XC5HaABStWhwT4z85YQMy_ZJoq312R9-Z8kKMMxTQWXRzOEfMdeijfXQ.png" group-title="NBA",IT: SKY SPORT NBA HD
-http://278019811476320144.nicetesbot.xyz:80/play/146/146/320144.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jADle-rIf309wlhGvayOTVz.png" group-title="NBA",PT: SPORT TV NBA FHD
-http://278019811476324699.nicetesbot.xyz:80/play/146/146/324699.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jADle-rIf309wlhGvayOTVz.png" group-title="NBA",PT: SPORT TV NBA HD HEVC
-http://278019811476325251.nicetesbot.xyz:80/play/146/146/325251.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="NBA",PT: SPORT TV NBA HD
-http://278019811476327146.nicetesbot.xyz:80/play/146/146/327146.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7_vh1C_R5DrW9G6IBevDlilQPVGC6Aj0cKo-NUMzkJv9K1vhPzyPg_g5rGCzMAuT2rpstqQWWnZEv3bdrbktkg9.png" group-title="NBA",TR: NBA TV HD
-http://278019811476308277.nicetesbot.xyz:80/play/146/146/308277.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA: NBA TV HD" tvg-logo="" group-title="NBA",CA: NBA TV HD
-http://278019811476310075.nicetesbot.xyz:80/play/146/146/310075.ts
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA: NBA TV CANADA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="NBA",CA: NBA TV CANADA HD
-http://278019811476315537.nicetesbot.xyz:80/play/146/146/315537.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NBA TV HD" tvg-logo="" group-title="NBA",EX-YU: NBA TV HD
-http://278019811476311153.nicetesbot.xyz:80/play/146/146/311153.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: US: NBA HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKj_CWx3QwO3Wi08vaWmG4DHf5_wN_OBzbdqzD9TVSIFua99etd9SeUsHZrsFl7Tbnf1WT6YmY7artrE7BmOMJxsI_g8leOEYWgjpgSfzQ2cUMsdXTJp6R7s_tbx7hNdflnX5r47I7VkFehTHlAY_SLv8Ck8OcOdlSjPGOuSGbeBUUUz3ehiCRa3QwpYfFwkiA0.png" group-title="NBA",BR: US: NBA HD
-http://278019811476323845.nicetesbot.xyz:80/play/146/146/323845.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA | LEAGUE PASS 07 HD" tvg-logo="" group-title="NBA",BR: NBA | LEAGUE PASS 07 HD
-http://278019811476329284.nicetesbot.xyz:80/play/146/146/329284.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: TRUE VISION NBA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/da43304978d600b414aaef24cd6cd9dc.jfif" group-title="NBA",TH: TRUE VISION NBA HD
-http://278019811476326545.nicetesbot.xyz:80/play/146/146/326545.ts
