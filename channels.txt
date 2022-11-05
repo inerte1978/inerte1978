@@ -443,51 +443,51 @@ http://127.0.0.1:6878/ace/getstream?id=517fccc871a669b0ca2c2cb8a7036bddf1c6a8d9
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 #EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
-#EXTINF:-1,A&E 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,A&E 
 http://45.5.119.202:8000/play/a014/index.m3u8 
-#EXTINF:-1,AMC 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AMC 
 http://45.5.119.202:8000/play/a02w/index.m3u8 
-#EXTINF:-1,AXN 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AXN 
 http://45.5.119.202:8000/play/a02u/index.m3u8 
-#EXTINF:-1,AXN HD 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AXN HD 
 http://45.5.119.202:8000/play/a02a/index.m3u8 
-#EXTINF:-1,Animal Planet 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Animal Planet 
 http://45.5.119.202:8000/play/a017/index.m3u8 
-#EXTINF:-1,Azcorazon 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Azcorazon 
 http://45.5.119.202:8000/play/a021/index.m3u8 
-#EXTINF:-1,Azmundo 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Azmundo 
 http://45.5.119.202:8000/play/a04s/index.m3u8 
-#EXTINF:-1,BBC World 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,BBC World 
 http://45.5.119.202:8000/play/a02y/index.m3u8 
-#EXTINF:-1,Baby First 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Baby First 
 http://45.5.119.202:8000/play/a009/index.m3u8 
-#EXTINF:-1,CINECANAL HD 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CINECANAL HD 
 http://45.5.119.202:8000/play/a01h/index.m3u8 
-#EXTINF:-1,CNNE 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CNNE 
 http://45.5.119.202:8000/play/a02h/index.m3u8 
-#EXTINF:-1,Canal 11 - GUA 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 11 - GUA 
 http://45.5.119.202:8000/play/a008/index.m3u8 
-#EXTINF:-1,Canal 13-GUA 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 13-GUA 
 http://45.5.119.202:8000/play/a007/index.m3u8 
-#EXTINF:-1,Canal 3 - GUA 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 3 - GUA 
 http://45.5.119.202:8000/play/a00y/index.m3u8 
-#EXTINF:-1,Canal 7 - GUA 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 7 - GUA 
 http://45.5.119.202:8000/play/a00x/index.m3u8 
-#EXTINF:-1,Canal Antigua - GUA 
+#EXTINF:-1  group-title="OCanales Latinos" tvg-id="" tvg-logo="" ,Canal Antigua - GUA 
 http://45.5.119.202:8000/play/a00v/index.m3u8 
-#EXTINF:-1,Canal Azteca - GUA 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal Azteca - GUA 
 http://45.5.119.202:8000/play/a00w/index.m3u8 
-#EXTINF:-1,Canal Claro 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal Claro 
 http://45.5.119.202:8000/play/a005/index.m3u8 
-#EXTINF:-1,Cartoon Network 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cartoon Network 
 http://45.5.119.202:8000/play/a02d/index.m3u8 
-#EXTINF:-1,Cartoonito 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cartoonito 
 http://45.5.119.202:8000/play/a02f/index.m3u8 
-#EXTINF:-1,Cine Latino 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cine Latino 
 http://45.5.119.202:8000/play/a01x/index.m3u8 
-#EXTINF:-1,CineCanal 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CineCanal 
 http://45.5.119.202:8000/play/a020/index.m3u8 
-#EXTINF:-1,CineMax 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CineMax 
 http://45.5.119.202:8000/play/a01y/index.m3u8 
-#EXTINF:-1,Claro Cinema 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Claro Cinema 
 http://45.5.119.202:8000/play/a01d/index.m3u8
