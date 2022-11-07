@@ -491,5 +491,5 @@ http://45.5.119.202:8000/play/a020/index.m3u8
 http://45.5.119.202:8000/play/a01y/index.m3u8 
 #EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Claro Cinema 
 http://45.5.119.202:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Pelis" tvg-id="Black Phone 2022" tvg-logo="" ,Black Phone 2022
+#EXTINF:-1 group-title="Pelisa" tvg-id="Black Phone 2022" tvg-logo="" ,Black Phone 2022
 http://77.26.132.122:8920/web/index.html#!/item?id=5&serverId=621e34ead9b94b4794517bc00dcade6c
