@@ -493,5 +493,5 @@ http://45.5.119.202:8000/play/a01y/index.m3u8
 http://45.5.119.202:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Pelisa" tvg-id="Black Phone 2022" tvg-logo="" ,Black Phone 2022
 http://77.26.132.122:8920/web/index.html#!/item?id=5&serverId=621e34ead9b94b4794517bc00dcade6c
-#EXTINF:-1 group-title="Eventual" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
+#EXTINF:-1 group-title="pelis" tvg-id="Venganza a golpes" tvg-logo="" ,Venganza a golpes
 http://localhost:8096/emby/videos/30/master.m3u8?DeviceId=c0be7e24-e6f8-4c46-a7a7-12118a714dea&MediaSourceId=5ad1b4d963f5849c1d557141fcbac700&PlaySessionId=e6c44681b1994a438c13820e195d33bc&api_key=6b63fc34d2ea4055841aaa557cc59977&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=139552000&AudioBitrate=448000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=AudioCodecNotSupported
