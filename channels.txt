@@ -494,4 +494,4 @@ http://45.5.119.202:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Pelisa" tvg-id="Black Phone 2022" tvg-logo="" ,Black Phone 2022
 http://77.26.132.122:8920/web/index.html#!/item?id=5&serverId=621e34ead9b94b4794517bc00dcade6c
 #EXTINF:-1 group-title="pelis" tvg-id="Venganza a golpes" tvg-logo="" ,Venganza a golpes
-http://192.168.1.137:30200/2012/4MRA4vYJZMPsXrPW0Ke82BDgbEwA/000000.m3u8
+http://77.26.11.233:30200/2012/4MRA4vYJZMPsXrPW0Ke82BDgbEwA/000000.m3u8
