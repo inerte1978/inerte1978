@@ -501,3 +501,5 @@ http://45.5.119.202:8000/play/a020/index.m3u8
 http://45.5.119.202:8000/play/a01y/index.m3u8 
 #EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Claro Cinema 
 http://45.5.119.202:8000/play/a01d/index.m3u8
+#EXTINF:-1  group-title="VLC" tvg-id="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" ,Antena 3 
+https://www.atresplayer.com/directos/antena3/
