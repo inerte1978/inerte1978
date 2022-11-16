@@ -519,7 +519,7 @@ http://45.5.119.202:8000/play/a01y/index.m3u8
 http://45.5.119.202:8000/play/a01d/index.m3u8
 #EXTINF:-1  group-title="VLC" tvg-id="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" ,Antena 3
 https://atres-live.atresmedia.com/871a71c29775c4e0b6b8d6f657f284a7e7c1e3df_ES_1668473858_1668502598/h264/live/antena3/bitrate_3.m3u8
-#EXTINF:-1  group-title="VLC" tvg-id="La Sexta 1" tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1.jpg" ,La Sexta 1
+#EXTINF:-1  group-title="VLC" tvg-id="La Sexta pepe" tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1.jpg" ,La Sexta pepe
 http://127.0.0.1:6878/ace/getstream?id=372199c36c9dfdfa8db9773f2bbcae88a9abd526
 #EXTINF:-1  group-title="VLC" tvg-id="telecinco" tvg-logo="" ,telecinco
 https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8
