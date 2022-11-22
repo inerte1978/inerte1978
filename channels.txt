@@ -880,43 +880,43 @@ http://dalmanve.bio:2082/stop/stop/191062
 http://dalmanve.bio:2082/stop/stop/210059
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV 00S" tvg-logo="" group-title="MUSICA",ES: MTV 00S
 http://dalmanve.bio:2082/stop/stop/210563
-#EXTINF:-1 tvg-id="BOING" tvg-name="Boing" tvg-logo="http://discusfish.xyz:25461/images/e89ea06de1fd9c12dd457585ff27714f.jpg" group-title="Infantiles",Boing
+#EXTINF:-1 tvg-id="BOING" tvg-name="Boing" tvg-logo="http://discusfish.xyz:25461/images/e89ea06de1fd9c12dd457585ff27714f.jpg" group-title="Infantil",Boing
 http://dalmanve.bio:2082/stop/stop/178162
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR HD" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="Infantiles",Nick JR HD
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR HD" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="Infantil",Nick JR HD
 http://dalmanve.bio:2082/stop/stop/178163
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="Infantiles",Nick JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="Infantil",Nick JR
 http://dalmanve.bio:2082/stop/stop/178164
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="Infantiles",Disney JR
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="Infantil",Disney JR
 http://dalmanve.bio:2082/stop/stop/178165
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="Infantiles",Disney JR
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="Infantil",Disney JR
 http://dalmanve.bio:2082/stop/stop/178166
-#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="Infantiles",Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="Infantil",Nickelodeon HD
 http://dalmanve.bio:2082/stop/stop/178167
-#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="Nickelodeon" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="Nickelodeon" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="Infantil",Nickelodeon
 http://dalmanve.bio:2082/stop/stop/178168
-#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="Infantiles",Disney Channel
+#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="Infantil",Disney Channel
 http://dalmanve.bio:2082/stop/stop/178169
-#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="Infantiles",Disney Channel
+#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="Infantil",Disney Channel
 http://dalmanve.bio:2082/stop/stop/178170
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="Infantiles",Clan
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="Infantil",Clan
 http://dalmanve.bio:2082/stop/stop/178171
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="Infantiles",Clan
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="Infantil",Clan
 http://dalmanve.bio:2082/stop/stop/178172
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="Infantiles",Baby Tv
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="Infantil",Baby Tv
 http://dalmanve.bio:2082/stop/stop/178173
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="Infantiles",Baby Tv
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="Infantil",Baby Tv
 http://dalmanve.bio:2082/stop/stop/178174
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda FHD" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="Infantiles",Canal Panda FHD
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda FHD" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="Infantil",Canal Panda FHD
 http://dalmanve.bio:2082/stop/stop/178175
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="Infantiles",Canal Panda
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="Infantil",Canal Panda
 http://dalmanve.bio:2082/stop/stop/178176
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="Infantiles",DreamWorks HD
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="Infantil",DreamWorks HD
 http://dalmanve.bio:2082/stop/stop/178177
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks FHD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="Infantiles",DreamWorks FHD
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks FHD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="Infantil",DreamWorks FHD
 http://dalmanve.bio:2082/stop/stop/178178
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD (latino)" tvg-logo="http://discusfish.xyz:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="Infantiles",Disney XD (latino)
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (latino)" tvg-logo="http://discusfish.xyz:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="Infantil",Disney XD (latino)
 http://dalmanve.bio:2082/stop/stop/178179
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (latino)" tvg-logo="http://cdn2.scratch.mit.edu/get_image/project/20988824_144x108.png?v=1398081506.44" group-title="Infantiles",Cartoon Network (latino)
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (latino)" tvg-logo="http://cdn2.scratch.mit.edu/get_image/project/20988824_144x108.png?v=1398081506.44" group-title="Infantil",Cartoon Network (latino)
 http://dalmanve.bio:2082/stop/stop/178180
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://discusfish.xyz:25461/images/18234861052ece494b63430305fe66ac.png" group-title="Documentales",NATIONAL GEOGRAPHIC
 http://dalmanve.bio:2082/stop/stop/178182
