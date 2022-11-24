@@ -307,16 +307,12 @@ http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,All Sports
 http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
-#EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports Xtra
-http://127.0.0.1:6878/ace/getstream?id=bc93e4025f4e661367f362e74e680bc247d4ed4e
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 2
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 3
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports Xtra R
-http://127.0.0.1:6878/ace/getstream?id=b5c017e94b72013902c02f6d145c77f753bc3e12
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports Xtra Ñ
 http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,Premier Sports 1
@@ -347,66 +343,46 @@ http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="VLC" tvg-id="Movista LaLiga" tvg-logo="" tvg-name="Movistar LaLiga",Movistar LaLiga
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="Movista LaLiga" tvg-logo="" tvg-name="Movistar LaLiga",Movistar LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Teledeporte" tvg-logo="" tvg-name="Teledeporte",Teledeporte
-https://rtvelivestream.akamaized.net/segments/tdp/tdp_main.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Teledeporte 2" tvg-logo="" tvg-name="Teledeporte 2",Teledeporte 2
+#EXTINF:-1 group-title="TDT" tvg-id="Teledeporte 2" tvg-logo="" tvg-name="Teledeporte 2",Teledeporte 2
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="La 2" tvg-logo="" tvg-name="La 2",La 2
-https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="La 1" tvg-logo="" tvg-name="La 1",La 1
-https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="Canal 24H" tvg-logo="" tvg-name="Canal 24H",Canal 24H
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_360.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="El Toro Tv" tvg-logo="" tvg-name="El Toro TV",El Toro TV
-https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="GOL_HD" tvg-logo="" tvg-name="GOL HD",GOL HD
+#EXTINF:-1 group-title="TDT" tvg-id="GOL_HD" tvg-logo="" tvg-name="GOL HD",GOL HD
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718&hlc=1&spv=0
-#EXTINF:-1 group-title="VLC" tvg-id="TELEDEPORTE_HD" tvg-logo="" tvg-name="TELEDEPORTE HD",TELEDEPORTE HD
+#EXTINF:-1 group-title="TDT" tvg-id="TELEDEPORTE_HD" tvg-logo="" tvg-name="TELEDEPORTE HD",TELEDEPORTE HD
 http://127.0.0.1:6878/ace/getstream?id=a537d162cb8c5cfa72c09be09ecac69e2f2cc535&hlc=1&spv=0
-#EXTINF:-1 group-title="VLC" tvg-id="MEGA_HD" tvg-logo="" tvg-name="MEGA HD",MEGA HD
+#EXTINF:-1 group-title="TDT" tvg-id="MEGA_HD" tvg-logo="" tvg-name="MEGA HD",MEGA HD
 http://127.0.0.1:6878/ace/getstream?id=cc5f7b6ea29b19b5ec6eef565d49a698340b4943&hlc=1&spv=0
-#EXTINF:-1 group-title="VLC" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
+#EXTINF:-1 group-title="TDT" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="VLC" tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" tvg-name="Documentales", Documentales
+#EXTINF:-1 group-title="Documentales" tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" tvg-name="Documentales", Documentales
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="VLC" tvg-id="La 1 HD", La 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 HD", La 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="VLC" tvg-id="Telecinco HD", Telecinco HD
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/40615
-#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="VLC" tvg-id="Antena 3 HD", Antena 3 HD
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="TDT" tvg-id="Antena 3 HD", Antena 3 HD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25781
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="VLC" tvg-id="Cuatro HD", Cuatro HD
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25778
-#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="VLC" tvg-id="Sexta HD", Sexta HD
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25780
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Cine Ñ", Movistar Cine Ñ
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series 2", Movistar Series 2
 http://31.14.41.118:8080/blacktop/k7S96HKftq/39640
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos", Movistar Estrenos
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25795
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Acción", Movistar Acción
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25791
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Movistar" tvg-id="Movistar Comedia", Movistar Comedia
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25794
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/640px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series", Movistar Series
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25792
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movistar" tvg-id="AMC", AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36545
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="Movistar" tvg-id="Calle 13", Calle 13
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1179
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movistar" tvg-id="Axn White", Axn White
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/a/x/n/axn.jpg" group-title="Movistar" tvg-id="Axn HD", Axn HD
@@ -415,8 +391,7 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36596
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="Movistar" tvg-id="HOLLYWOOD FHD", HOLLYWOOD FHD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/40651
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Movistar" tvg-id="Comedy Central", Comedy Central
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/40661
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Movistar" tvg-id="Caza y Pesca", Caza y Pesca
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25810
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
@@ -443,28 +418,6 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF: -1 tvg-name="Cartoon Network Latino" tvg-chno="46" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="TDT", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF: -1 tvg-id="M+ Cine Español" tvg-name="Movistar Cine Ñ" tvg-chno="10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="Movistar", Movistar Cine Ñ
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
-#EXTINF: -1 tvg-id="AMC CRIME" tvg-name="AMC Crime" tvg-chno="17" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amccrime.png" group-title="Movistar", AMC Crime
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1193
-#EXTINF: -1 tvg-id="TCM HD" tvg-name="TCM" tvg-chno="18" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="Movistar", TCM
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1178
-#EXTINF: -1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-chno="33" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" group-title="Infantil", Canal Panda
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/269879
-#EXTINF: -1 tvg-id="DISNEY JR" tvg-name="Disney Junior" tvg-chno="28" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" group-title="Infantil", Disney Junior
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1199
-#EXTINF: -1 tvg-id="DISNEY CH HD" tvg-name="Disney Channel" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="Infantil", Disney Channel
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1200
-#EXTINF: -1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-chno="30" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="Infantil", Baby TV
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1202
-#EXTINF: -1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" group-title="Infantil", Nick Jr
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1203
-#EXTINF: -1 tvg-id="NICKELODEON HD" tvg-name="Nickeloden" tvg-chno="32" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" group-title="Infantil", Nickeloden
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1204
-#EXTINF: -1 tvg-id="IBERALIA TV" tvg-name="Iberalia TV" tvg-chno="27" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="Movistar", Iberalia TV
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1191
-#EXTINF: -1 tvg-id="CANAL ODISEA" tvg-name="Odisea" tvg-chno="24" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="Movistar", Odisea
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1187
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 4K
 http://127.0.0.1:6878/ace/getstream?id=81860fcb1546fd44c88927d978c881c9acdda35a
 #EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Select
@@ -537,8 +490,6 @@ http://127.0.0.1:6878/ace/getstream?id=a14e661d68a62f22aa09e7e7cb430d86a583426e
 http://127.0.0.1:6878/ace/getstream?id=8d19b0a476acc1382cc216d08699a9ea27c4754a
 #EXTINF:-1 group-title="Eventual" tvg-id="Evento 2K" tvg-logo="" ,Evento 2K
 http://127.0.0.1:6878/ace/getstream?id=6b7cdac10ea811b0ce1f8a660eb93da8784aa073
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 2K", Dazn Liga 2K
-acestream://6b7cdac10ea811b0ce1f8a660eb93da8784aa073
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
 acestream://1020ab853036c45eb44ff75c314715474e994f2d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="Eventual" tvg-id="Dazn Liga 1080 J", Dazn Liga 1080 J
@@ -549,57 +500,8 @@ acestream://7ab900af72f56eca96503f683ea24febaa2db0bc
 acestream://0552bc52bbf60706062c28f4a5fa7e6dbd27fe30
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV [US]
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Eventual" tvg-id="eventual 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" , eventual 4K
-http://127.0.0.1:6878/ace/getstream?id=9cc198938716065b336b713f4d95cc06f31ec076
 #EXTINF:-1 group-title="Eventual" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 #EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,A&E 
-http://45.5.119.202:8000/play/a014/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AMC 
-http://45.5.119.202:8000/play/a02w/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AXN 
-http://45.5.119.202:8000/play/a02u/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,AXN HD 
-http://45.5.119.202:8000/play/a02a/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Animal Planet 
-http://45.5.119.202:8000/play/a017/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Azcorazon 
-http://45.5.119.202:8000/play/a021/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Azmundo 
-http://45.5.119.202:8000/play/a04s/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,BBC World 
-http://45.5.119.202:8000/play/a02y/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Baby First 
-http://45.5.119.202:8000/play/a009/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CINECANAL HD 
-http://45.5.119.202:8000/play/a01h/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CNNE 
-http://45.5.119.202:8000/play/a02h/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 11 - GUA 
-http://45.5.119.202:8000/play/a008/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 13-GUA 
-http://45.5.119.202:8000/play/a007/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 3 - GUA 
-http://45.5.119.202:8000/play/a00y/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal 7 - GUA 
-http://45.5.119.202:8000/play/a00x/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal Antigua - GUA 
-http://45.5.119.202:8000/play/a00v/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal Azteca - GUA 
-http://45.5.119.202:8000/play/a00w/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Canal Claro 
-http://45.5.119.202:8000/play/a005/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cartoon Network 
-http://45.5.119.202:8000/play/a02d/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cartoonito 
-http://45.5.119.202:8000/play/a02f/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Cine Latino 
-http://45.5.119.202:8000/play/a01x/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CineCanal 
-http://45.5.119.202:8000/play/a020/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,CineMax 
-http://45.5.119.202:8000/play/a01y/index.m3u8 
-#EXTINF:-1  group-title="Canales Latinos" tvg-id="" tvg-logo="" ,Claro Cinema 
-http://45.5.119.202:8000/play/a01d/index.m3u8
+
