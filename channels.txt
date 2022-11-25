@@ -504,4 +504,9 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 #EXTINF:-1 group-title="Dance" tvg-id="Dance Television 2" tvg-logo="" ,Dance Television 2
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
-
+#EXTINF:-1 group-title="RAI" tvg-id="Rai 1 HD" tvg-logo="" ,Rai 1 HD
+http://127.0.0.1:6878/ace/getstream?id=6a309c222fe2fc8c3314e2f2d91525b12b374dbf
+#EXTINF:-1 group-title="RAI" tvg-id="One 1" tvg-logo="" ,One 1
+http://127.0.0.1:6878/ace/getstream?id=ade92cdd487cfc03e8cc0d2207e4e8180138b94b
+#EXTINF:-1 group-title="RAI" tvg-id="Tvp 1" tvg-logo="" ,Tvp 1
+http://127.0.0.1:6878/ace/getstream?id=808db43191d85f6e72f4720352da4e9657e6cccd
