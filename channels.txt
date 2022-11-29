@@ -38,16 +38,20 @@ http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 1 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=7031601915e3d33893cb324c89055b91b9ec5574
+#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 1 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 1 1080 
 http://127.0.0.1:6878/ace/getstream?id=2f54416685b49e9a8fbe73884712fe018e3e9855
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 2 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=f3d0600f3a135c487f38a0ef9aa3d8beeb579671
+#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 2 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 2 1080 
 http://127.0.0.1:6878/ace/getstream?id=8a26b327719faf000af9c0f46014be28415eacf1
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 1080p" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 1080p 
-http://127.0.0.1:6878/ace/getstream?id=f4646f4663cd2d2355602e458a4f336303aede85
+#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL Multi 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL Multi 1080 
+http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 1080 
 http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
 http://127.0.0.1:6878/ace/getstream?id=e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 1080 
+#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial Multi 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial Multi 1080 
 http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
 http://127.0.0.1:6878/ace/getstream?id=bc125e7047cc7a83f58ae31c213899065d88794c
@@ -510,3 +514,35 @@ http://127.0.0.1:6878/ace/getstream?id=6a309c222fe2fc8c3314e2f2d91525b12b374dbf
 http://127.0.0.1:6878/ace/getstream?id=ade92cdd487cfc03e8cc0d2207e4e8180138b94b
 #EXTINF:-1 group-title="RAI" tvg-id="Tvp 1" tvg-logo="" ,Tvp 1
 http://127.0.0.1:6878/ace/getstream?id=808db43191d85f6e72f4720352da4e9657e6cccd
+#EXTINF:-1 group-title="Otros" tvg-id="TVP Sport HD [PL]" tvg-logo="" ,TVP Sport HD [PL]
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="Otros" tvg-id="TVR 1 HD" tvg-logo="" ,TVR 1 HD
+http://127.0.0.1:6878/ace/getstream?id=56b04fe27a0d3198bff5ea03ab43b36bcea558b6
+#EXTINF:-1 group-title="Otros" tvg-id="ZDF HD [DE]" tvg-logo="" ,ZDF HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 group-title="Otros" tvg-id="beIN Sports 1 France HD" tvg-logo="" ,beIN Sports 1 France HD
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="Otros" tvg-id="HRT 2" tvg-logo="" ,HRT 2
+http://127.0.0.1:6878/ace/getstream?id=0328d2fa7351800e6424c4b7c84251dce7f359d8
+#EXTINF:-1 group-title="Otros" tvg-id="TV2 Norge HD" tvg-logo="" ,TV2 Norge HD
+http://127.0.0.1:6878/ace/getstream?id=e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
+#EXTINF:-1 group-title="Otros" tvg-id="TUDN 720" tvg-logo="" ,TUDN 720
+http://127.0.0.1:6878/ace/getstream?id=958a228fbcdac80a19cd3d88ef402c0e50ccca87
+#EXTINF:-1 group-title="Otros" tvg-id="TVP 1 Poland HD" tvg-logo="" ,TVP 1 Poland HD
+http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+http://127.0.0.1:6878/ace/getstream?id=572131f3f78e2ac1e10d324cdcfc0d5357e3b6a7
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+http://127.0.0.1:6878/ace/getstream?id=b7564306ba2b941455909b0a61e20e8cff0e88ab
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+http://127.0.0.1:6878/ace/getstream?id=5ab26c2148693dbbd3331d3b12f855ae954f777c
+#EXTINF:-1 group-title="Otros" tvg-id="ORF 1 HD [DE]" tvg-logo="" ,ORF 1 HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 group-title="Otros" tvg-id="1 TV Georgia" tvg-logo="" ,1 TV Georgia
+http://127.0.0.1:6878/ace/getstream?id=61ff03eb70886d705a5176cb97a86936c3cd09f6
+#EXTINF:-1 group-title="Otros" tvg-id="ANT 1" tvg-logo="" ,ANT 1
+http://127.0.0.1:6878/ace/getstream?id=4cee0a14083d14caf86bd9a7e91ef651f1b94106
+#EXTINF:-1 group-title="Otros" tvg-id="BBC ONE" tvg-logo="" ,BBC ONE
+http://127.0.0.1:6878/ace/getstream?id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
+#EXTINF:-1 group-title="Otros" tvg-id="FOX Sports 1 HD [US]" tvg-logo="" ,FOX Sports 1 HD [US]
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
