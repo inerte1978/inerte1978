@@ -53,6 +53,8 @@ http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 4k Alternativo" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 4k Alternativo
 http://127.0.0.1:6878/ace/getstream?id=d6c14a13579a5c908bb14169d8787b9955f05b20
+#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 4k Alternativo2" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 4k Alternativo2
+http://127.0.0.1:6878/ace/getstream?id=07c562d0ac9b4aa16d067ea9fb7b655b8c8b781e
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
 http://127.0.0.1:6878/ace/getstream?id=e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial Multi 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial Multi 1080 
