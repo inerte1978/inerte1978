@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=9d7847872dc7a44774a3b44f7a379220a7a1b024
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA
 http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA HD
@@ -71,6 +73,8 @@ http://127.0.0.1:6878/ace/getstream?id=110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="TVE UHD" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,TVE UHD 
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD
+http://127.0.0.1:6878/ace/getstream?id=301fca45b02cc20927599e9c28797c4eb285c020
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga
 http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multi
