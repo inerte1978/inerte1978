@@ -163,8 +163,6 @@ http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #0" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#0 HD
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="TDT" tvg-id="" tvg-logo="" ,TeleCinco 1080
-http://127.0.0.1:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 #EXTINF:-1 group-title="TDT" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
@@ -175,8 +173,6 @@ http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="TDT" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="TDT" tvg-id="" tvg-logo="" ,TeleCinco 1080
-http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga UHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Sky Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Sky Bundesliga HD
@@ -331,12 +327,6 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 group-title="TDT" tvg-id="Teledeporte 2" tvg-logo="" tvg-name="Teledeporte 2",Teledeporte 2
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="GOL_HD" tvg-logo="" tvg-name="GOL HD",GOL HD
-http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718&hlc=1&spv=0
-#EXTINF:-1 group-title="TDT" tvg-id="TELEDEPORTE_HD" tvg-logo="" tvg-name="TELEDEPORTE HD",TELEDEPORTE HD
-http://127.0.0.1:6878/ace/getstream?id=a537d162cb8c5cfa72c09be09ecac69e2f2cc535&hlc=1&spv=0
-#EXTINF:-1 group-title="TDT" tvg-id="MEGA_HD" tvg-logo="" tvg-name="MEGA HD",MEGA HD
-http://127.0.0.1:6878/ace/getstream?id=cc5f7b6ea29b19b5ec6eef565d49a698340b4943&hlc=1&spv=0
 #EXTINF:-1 group-title="TDT" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
@@ -353,12 +343,6 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 HD", La 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco HD", Telecinco HD
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/40615
-#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="TDT" tvg-id="Antena 3 HD", Antena 3 HD
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25781
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
-http://99ab99.com:80/Veranew2701/TUzhu79ux9/25778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series 2", Movistar Series 2
 http://31.14.41.118:8080/blacktop/k7S96HKftq/39640
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos", Movistar Estrenos
@@ -375,25 +359,12 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36596
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="Movistar" tvg-id="HOLLYWOOD FHD", HOLLYWOOD FHD
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/40651
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Movistar" tvg-id="Caza y Pesca", Caza y Pesca
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25810
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF: -1 tvg-id="La2.TV" tvg-name="La 2" tvg-chno="4" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF: -1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-chno="21" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="TDT", FDF
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1150
-#EXTINF: -1 tvg-id="BeMad.es" tvg-name="Be Mad" tvg-chno="22" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="TDT", Be Mad
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/277706
-#EXTINF: -1 tvg-id="Energy.es" tvg-name="Energy" tvg-chno="25" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="TDT", Energy
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1151
-#EXTINF: -1 tvg-id="Neox.es" tvg-name="Neox" tvg-chno="27" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="TDT", Neox
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1154
-#EXTINF: -1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 Series" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="TDT", A3 Series
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
-#EXTINF: -1 tvg-id="DKiss.es" tvg-name="Dkiss" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="TDT", Dkiss
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1158
 #EXTINF: -1 tvg-id="GOL PLAY" tvg-name="GOL TV 1080" tvg-chno="33" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="TDT", GOL PLAY HD
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF: -1 tvg-id="Clan.TV" tvg-name="Clan" tvg-chno="43" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantil", Clan GEO
