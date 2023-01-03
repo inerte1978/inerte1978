@@ -39,39 +39,7 @@ http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 1 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=7031601915e3d33893cb324c89055b91b9ec5574
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 1 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=2f54416685b49e9a8fbe73884712fe018e3e9855
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 2 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=f3d0600f3a135c487f38a0ef9aa3d8beeb579671
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL 2 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=8a26b327719faf000af9c0f46014be28415eacf1
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="GOL MUNDIAL Multi 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,GOL MUNDIAL Multi 1080 
-http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 1080 
-http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 4k" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 4k 
-http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 4k Alternativo" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 4k Alternativo
-http://127.0.0.1:6878/ace/getstream?id=d6c14a13579a5c908bb14169d8787b9955f05b20
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 4k Alternativo2" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 4k Alternativo2
-http://127.0.0.1:6878/ace/getstream?id=07c562d0ac9b4aa16d067ea9fb7b655b8c8b781e
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
-http://127.0.0.1:6878/ace/getstream?id=e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial Multi 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial Multi 1080 
-http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
-http://127.0.0.1:6878/ace/getstream?id=bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 720 
-http://127.0.0.1:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 2 1080" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial 2 720" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial 2 720 
-http://127.0.0.1:6878/ace/getstream?id=110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="Gol Mundial  1080 MultiAudio" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,Gol Mundial  1080 MultiAudio 
-http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="MUNDIAL" tvg-id="TVE UHD" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,TVE UHD 
+#EXTINF:-1 group-title="TDT" tvg-id="TVE UHD" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,TVE UHD 
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=301fca45b02cc20927599e9c28797c4eb285c020
@@ -220,14 +188,14 @@ http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 group-title="SPORT" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3 
 http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ 1080
-http://127.0.0.1:6878/ace/getstream?id=c0f38f2a4b891db823edb45e64f1191655526e5e
+http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 group-title="TDT" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Uruguay
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Colombia
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 Uruguay
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 Colombia
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Uruguay
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Colombia
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Directv Ecuador
 http://127.0.0.1:6878/ace/getstream?id=f3f14b89eb62839f97153593432370b5bd61a5df
@@ -237,7 +205,7 @@ http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="" ,FOX 3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Colombia
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Canal+" tvg-id="" tvg-logo="" ,Canal+ Sport
 http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
