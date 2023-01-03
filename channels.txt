@@ -71,6 +71,8 @@ http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLigaTv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4k" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 4k
+http://127.0.0.1:6878/ace/getstream?id=d9bd69647d672efa10094037f818068542bf40aa
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones HD
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 HD
