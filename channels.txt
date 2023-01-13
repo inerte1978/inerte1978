@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Prueba" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Prueba
+http://127.0.0.1:6878/ace/getstream?id=be047696e1779172eac6e95948d5566e5953916e
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Movistar Supercopa FHD Multi
 http://127.0.0.1:6878/ace/getstream?id=5044f89229fbb2e477ffa1257430a065f44caf8d
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Movistar Supercopa 1080 Multi
