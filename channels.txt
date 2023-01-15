@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Prueba" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Prueba
 http://127.0.0.1:6878/ace/getstream?id=be047696e1779172eac6e95948d5566e5953916e
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Movistar Supercopa FHD Multi
-http://127.0.0.1:6878/ace/getstream?id=5044f89229fbb2e477ffa1257430a065f44caf8d
+http://127.0.0.1:6878/ace/getstream?id=c4c0295bcb7be0026245c5aa40484da489e00844
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Movistar Supercopa 1080 Multi
 http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Movistar Supercopa 1080 Multi
