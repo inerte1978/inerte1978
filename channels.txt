@@ -51,7 +51,7 @@ http://127.0.0.1:6878/ace/getstream?id=84af46abab9de02bdd22818747738cfa5438132e
 http://127.0.0.1:6878/ace/getstream?id=6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
-#EXTINF:-1 group-title="TDT" tvg-id="TVE 1 UHD L" tvg-logo="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2022/10/25/6357c674a1cbe.r_d.350-225-13543.jpeg" ,La 1 HEVC
+#EXTINF:-1 group-title="TDT" tvg-id="TVE 1 UHD L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/2099px-Logo_TVE-4K.svg.png" ,La 1 HEVC
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=301fca45b02cc20927599e9c28797c4eb285c020
