@@ -205,21 +205,21 @@ http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 group-title="TDT" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720 L
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Colombia L
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN Colombia L" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Colombia L
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 Colombia L
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN 2 Colombia L" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 Colombia L
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Colombia L
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN 3 Colombia L" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Colombia L
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Directv Ecuador
 http://127.0.0.1:6878/ace/getstream?id=f3f14b89eb62839f97153593432370b5bd61a5df
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Argentina 
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN Argentina" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN Argentina 
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Argentina
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN 3 Argentina" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-#EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="" ,FOX 3 Argentina
+#EXTINF:-1 group-title="Fox 3 Argentina" tvg-id="" tvg-logo="" ,FOX 3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
-#EXTINF:-1 group-title="Espn" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Colombia L
+#EXTINF:-1 group-title="Espn" tvg-id="ESPN Extra Colombia L" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Colombia L
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Canal+" tvg-id="" tvg-logo="" ,Canal+ Sport
 http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
