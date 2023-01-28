@@ -241,67 +241,67 @@ http://127.0.0.1:6878/ace/getstream?id=8734def10707532f35cbc7f7d88078adb27ecf8c
 http://127.0.0.1:6878/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a
 #EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 1 HD
 http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6
-#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="" ,Amazon Prime Video 3 HD
+#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 3 HD
 http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
-#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="" ,Amazon Prime Video 4 HD
+#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 4 HD
 http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7
-#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="" ,Amazon Prime Video 5 HD
+#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 5 HD
 http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9
-#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="" ,Amazon Prime Video 6 HD
+#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 6 HD
 http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
-#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="" ,Amazon Prime Video 7 HD
+#EXTINF:-1 group-title="Amazon" tvg-id="" tvg-logo="https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_960,q_100,w_360/v1/invites/hqv1jdzhvikacynqqkk7.png" ,Amazon Prime Video 7 HD
 http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 1 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 2 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 3 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 3 HD
 http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 4 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 4 HD
 http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 5 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 5 HD
 http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 6 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 6 HD
 http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 7 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 7 HD
 http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 8 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 8 HD
 http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 9 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 9 HD
 http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 10 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 10 HD
 http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="" ,Magenta Sport 11 HD
+#EXTINF:-1 group-title="Magenta" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" ,Magenta Sport 11 HD
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA 1 [US]
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA 1 [US]
 http://127.0.0.1:6878/ace/getstream?id=3a80c5ff923a8b810fe2298327670f0dc701c41b
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA 2 [US]
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA 2 [US]
 http://127.0.0.1:6878/ace/getstream?id=6ba718a6f5a638e2ae15de6904ea2fa553895856
 #EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1 HD
+#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 1 HD
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1
+#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 2 HD
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png"" ,Eleven Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 2
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 2
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 3 HD
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 3 HD
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 3
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 3
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 4 HD
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 4 HD
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 4
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 4
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 5
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 5
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="" ,Eleven Sports 6
+#EXTINF:-1 group-title="Eleven" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 6
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="" ,Fox Sports 1 HD
+#EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" ,Fox Sports 1 HD
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="" ,Fox Sports 2 HD
+#EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" ,Fox Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,All Sports
 http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
@@ -313,9 +313,9 @@ http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports Xtra Ñ
 http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,Premier Sports 1
+#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,Premier Sports 1
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,Premier Sports 2
+#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,Premier Sports 2
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports HD 1
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
@@ -333,29 +333,29 @@ http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 #EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports UHD
+#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sky_Sport_UHD_DE_Logo_2020.svg/2560px-Sky_Sport_UHD_DE_Logo_2020.svg.png" ,Sky Sports UHD
 http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
-#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports Arena
+#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1200px-Sky_Sport_Arena_-_Logo_2020.svg.png" ,Sky Sports Arena
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports Football
+#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="" ,Sky Sports Main Event
+#EXTINF:-1 group-title="Sky" tvg-id="" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" ,Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="Movista LaLiga" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" tvg-name="Movistar LaLiga",M+ LaLigaTV FHD
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="Teledeporte 2" tvg-logo="" tvg-name="Teledeporte 2",Teledeporte 2
+#EXTINF:-1 group-title="TDT" tvg-id="Teledeporte 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" tvg-name="Teledeporte 2",Teledeporte 2
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 group-title="TDT" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
+#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" tvg-name="Documentales", Documentales
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
@@ -393,7 +393,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 4K
 http://127.0.0.1:6878/ace/getstream?id=81860fcb1546fd44c88927d978c881c9acdda35a
-#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Select
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Sport Select
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Racing
 http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
