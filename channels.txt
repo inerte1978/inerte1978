@@ -277,7 +277,7 @@ http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 http://127.0.0.1:6878/ace/getstream?id=3a80c5ff923a8b810fe2298327670f0dc701c41b
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA 2 [US]
 http://127.0.0.1:6878/ace/getstream?id=6ba718a6f5a638e2ae15de6904ea2fa553895856
-#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/ELEVEN%20SPORTS%201%20FHD.png" ,Eleven Sports 1 4K
+#EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="Eleven" tvg-id="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 1 HD
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
@@ -303,7 +303,7 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Fox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" ,Fox Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,All Sports
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/60a6acd8eed6857008d45b4f/1623548387718-2AI2J7J7V1B1PVR0QQ9A/All+Sport+Training.png" ,All Sports
 http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
 #EXTINF:-1 group-title="Bein" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,Bein Sports 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
@@ -367,7 +367,7 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/39640
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25795
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Acción", Movistar Acción
 http://99ab99.com:80/Veranew2701/TUzhu79ux9/25791
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movistar" tvg-id="AMC", AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Movistar" tvg-id="AMC", AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36545
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movistar" tvg-id="Axn White", Axn White
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
@@ -395,23 +395,23 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 http://127.0.0.1:6878/ace/getstream?id=81860fcb1546fd44c88927d978c881c9acdda35a
 #EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Sport Select
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Racing
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Sport Racing
 http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
-#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Golf
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Sport Golf
 http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797
-#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Sport Voetbal
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="" ,Ziggo Racing
+#EXTINF:-1 group-title="Ziggo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,Ziggo Racing
 http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c
-#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 1
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" ,BT Sport 1
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 2
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" ,BT Sport 2
 http://127.0.0.1:6878/ace/getstream?id=5817f9d710d682fe975a16c47306bfdced437319
-#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="" ,BT Sport 3
+#EXTINF:-1 group-title="BT Sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" ,BT Sport 3
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Win Sport" tvg-id="" tvg-logo="" ,Win Sport Colombia
+#EXTINF:-1 group-title="Win Sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" ,Win Sport Colombia
 http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
-#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
+#EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-esport-3-614.png" ,Esport3
 http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png" group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES",M+ Liga de Campeones UHD HEVC
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
@@ -419,7 +419,7 @@ http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="DAZN Aleman" tvg-id="DAZN 2 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 2 Bar hd
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 1
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 1" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 1
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 #EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 2
 http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
@@ -471,7 +471,7 @@ http://127.0.0.1:6878/ace/getstream?id=68d44340c4ae916ccb9ef0dcdc0ac6370ca2ea28
 http://127.0.0.1:6878/ace/getstream?id=7ab900af72f56eca96503f683ea24febaa2db0bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN LALIGA" tvg-id="Dazn Liga 1080 J", Dazn Liga 720 J
 http://127.0.0.1:6878/ace/getstream?id=0552bc52bbf60706062c28f4a5fa7e6dbd27fe30
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,NBA TV [US]
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA TV [US]
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Eventual" tvg-id="M+ Deportes 2 eventual" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 2 HD eventual
 http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
