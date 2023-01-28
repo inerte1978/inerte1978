@@ -417,7 +417,7 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 #EXTINF:-1 group-title="Esport3" tvg-id="" tvg-logo="" ,Esport3
 http://127.0.0.1:6878/ace/getstream?id=cda71664828814773985908db1c74935984a0956
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES",M+ Liga de Campeones UHD HEVC
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png" group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES",M+ Liga de Campeones UHD HEVC
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="DAZN Aleman" tvg-id="DAZN 1 Bar hd" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN 1 Bar hd
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
