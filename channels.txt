@@ -177,10 +177,6 @@ http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080 L
 http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,NATIONAL GEOGRAPHIC HD
-http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
-#EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,CANAL HISTORIA
-http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas 1080 L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/1024px-Ellas_V_por_Movistar_Plus%2B.svg.png" ,M+ Ellas #V FHD
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #0 1080 L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png" ,M+ #0 FHD
@@ -195,9 +191,9 @@ http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="TDT" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080 L
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga UHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Sky Bundesliga UHD
+#EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga UHD Search" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" ,Sky Sport Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
-#EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Sky Bundesliga HD
+#EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga HD Search" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png" ,Sky Sport Bundesliga 1
 http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 group-title="SPORT" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080 L
 http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
