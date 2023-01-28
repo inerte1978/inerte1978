@@ -183,7 +183,7 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas 1080 L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/1024px-Ellas_V_por_Movistar_Plus%2B.svg.png" ,M+ Ellas #V FHD
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #0 1080 L" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #0 FHD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #0 1080 L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png" ,M+ #0 FHD
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="M+ LaLiga Smartbank 720" tvg-id="" tvg-logo="https://assets.laliga.com/assets/2022/08/04/large/47d9e332821e7abb3bb7fdbf05f4b66a.png" ,LaLiga SmartbankTV HD
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
