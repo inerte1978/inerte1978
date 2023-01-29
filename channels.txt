@@ -421,33 +421,33 @@ http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 1" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 1
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 2
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 2" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 2
 http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 3
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 3" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 3
 http://127.0.0.1:6878/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 4
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 4" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 4
 http://127.0.0.1:6878/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 5
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 5" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 5
 http://127.0.0.1:6878/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 6" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 6
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 6" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 6
 http://127.0.0.1:6878/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 7" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 7
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 7" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 7
 http://127.0.0.1:6878/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 8" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 8
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 8" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 8
 http://127.0.0.1:6878/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
-#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 9" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Eurosport360 HD 9
+#EXTINF:-1 group-title="EuroSport Aleman" tvg-id="Eurosport360 HD 9" tvg-logo="https://img.favpng.com/3/2/6/eurosport-2-high-definition-television-television-channel-png-favpng-urVfdunWAXJdVqh8v3fv4rZvH.jpg" ,Eurosport360 HD 9
 http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
-#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 1 FHD
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 1 FHD" tvg-logo="https://img.favpng.com/15/13/24/match-tv-football-1-match-football-2-high-definition-television-png-favpng-5T4ncPaewDeZUT0mGc90YKZLj.jpg" ,Match Football 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c081a7eabe6eea6112624b1f7d5abd18de2bf247
-#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 2 FHD
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 2 FHD" tvg-logo="https://img.favpng.com/15/13/24/match-tv-football-1-match-football-2-high-definition-television-png-favpng-5T4ncPaewDeZUT0mGc90YKZLj.jpg" ,Match Football 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=3832fe79145c6ca781d8c4fc4badab59cdad0382
-#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Football 3 FHD
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Football 3 FHD" tvg-logo="https://img.favpng.com/15/13/24/match-tv-football-1-match-football-2-high-definition-television-png-favpng-5T4ncPaewDeZUT0mGc90YKZLj.jpg" ,Match Football 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=541188d4c73b20e7779f226910499b3803ee6875
-#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Premiere FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match Premiere FHD
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match Premiere FHD" tvg-logo="https://img.favpng.com/15/13/24/match-tv-football-1-match-football-2-high-definition-television-png-favpng-5T4ncPaewDeZUT0mGc90YKZLj.jpg" ,Match Premiere FHD
 http://127.0.0.1:6878/ace/getstream?id=1f2a653c427edfc7c9d3db31cfe92f3a243a2326
-#EXTINF:-1 group-title="Football Ruso" tvg-id="Match TV FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Match TV FHD
+#EXTINF:-1 group-title="Football Ruso" tvg-id="Match TV FHD" tvg-logo="https://img.favpng.com/15/13/24/match-tv-football-1-match-football-2-high-definition-television-png-favpng-5T4ncPaewDeZUT0mGc90YKZLj.jpg" ,Match TV FHD
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
-#EXTINF:-1 group-title="Otro contenido" tvg-id="ORF SPORT+ HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,ORF SPORT+ HD
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ORF SPORT+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Orf_sport%2B.jpg" ,ORF SPORT+ HD
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
 #EXTINF:-1 group-title="Eventual" tvg-id="Evento 1" tvg-logo="" ,Evento 1
 http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
@@ -479,39 +479,39 @@ http://127.0.0.1:6878/ace/getstream?id=b5c1f89712d4d5312647c8410f8dd40e12a3b73f
 http://127.0.0.1:6878/ace/getstream?id=bdedc9dd96c25060faff98d9c0e187da09b25a89
 #EXTINF:-1 group-title="RAI" tvg-id="Rai 1 HD" tvg-logo="" ,Rai 1 HD
 http://127.0.0.1:6878/ace/getstream?id=6a309c222fe2fc8c3314e2f2d91525b12b374dbf
-#EXTINF:-1 group-title="RAI" tvg-id="One 1" tvg-logo="" ,One 1
+#EXTINF:-1 group-title="RAI" tvg-id="One 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" ,One 1
 http://127.0.0.1:6878/ace/getstream?id=ade92cdd487cfc03e8cc0d2207e4e8180138b94b
-#EXTINF:-1 group-title="RAI" tvg-id="Tvp 1" tvg-logo="" ,Tvp 1
+#EXTINF:-1 group-title="RAI" tvg-id="Tvp 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/1280px-TVP_HD_logo.svg.png" ,Tvp 1
 http://127.0.0.1:6878/ace/getstream?id=808db43191d85f6e72f4720352da4e9657e6cccd
-#EXTINF:-1 group-title="Otros" tvg-id="TVP Sport HD [PL]" tvg-logo="" ,TVP Sport HD [PL]
+#EXTINF:-1 group-title="Otros" tvg-id="TVP Sport HD [PL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/1280px-TVP_HD_logo.svg.png" ,TVP Sport HD [PL]
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 group-title="Otros" tvg-id="TVR 1 HD" tvg-logo="" ,TVR 1 HD
+#EXTINF:-1 group-title="Otros" tvg-id="TVR 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/TVR_Logo.png" ,TVR 1 HD
 http://127.0.0.1:6878/ace/getstream?id=56b04fe27a0d3198bff5ea03ab43b36bcea558b6
 #EXTINF:-1 group-title="Otros" tvg-id="ZDF HD [DE]" tvg-logo="" ,ZDF HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
-#EXTINF:-1 group-title="Otros" tvg-id="beIN Sports 1 France HD" tvg-logo="" ,beIN Sports 1 France HD
+#EXTINF:-1 group-title="Otros" tvg-id="beIN Sports 1 France HD" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN Sports 1 France HD
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 group-title="Otros" tvg-id="HRT 2" tvg-logo="" ,HRT 2
 http://127.0.0.1:6878/ace/getstream?id=0328d2fa7351800e6424c4b7c84251dce7f359d8
-#EXTINF:-1 group-title="Otros" tvg-id="TV2 Norge HD" tvg-logo="" ,TV2 Norge HD
+#EXTINF:-1 group-title="Otros" tvg-id="TV2 Norge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Tv-2-norway.png" ,TV2 Norge HD
 http://127.0.0.1:6878/ace/getstream?id=e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
-#EXTINF:-1 group-title="Otros" tvg-id="TUDN 720" tvg-logo="" ,TUDN 720
+#EXTINF:-1 group-title="Otros" tvg-id="TUDN 720" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" ,TUDN 720
 http://127.0.0.1:6878/ace/getstream?id=958a228fbcdac80a19cd3d88ef402c0e50ccca87
-#EXTINF:-1 group-title="Otros" tvg-id="TVP 1 Poland HD" tvg-logo="" ,TVP 1 Poland HD
+#EXTINF:-1 group-title="Otros" tvg-id="TVP 1 Poland HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/TVP_1_HD_2017.png" ,TVP 1 Poland HD
 http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
-#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Moldova_1_logo_%282018%29.png/640px-Moldova_1_logo_%282018%29.png" ,Moldova 1
 http://127.0.0.1:6878/ace/getstream?id=572131f3f78e2ac1e10d324cdcfc0d5357e3b6a7
-#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Moldova_1_logo_%282018%29.png/640px-Moldova_1_logo_%282018%29.png" ,Moldova 1
 http://127.0.0.1:6878/ace/getstream?id=b7564306ba2b941455909b0a61e20e8cff0e88ab
-#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="" ,Moldova 1
+#EXTINF:-1 group-title="Otros" tvg-id="Moldova 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Moldova_1_logo_%282018%29.png/640px-Moldova_1_logo_%282018%29.png" ,Moldova 1
 http://127.0.0.1:6878/ace/getstream?id=5ab26c2148693dbbd3331d3b12f855ae954f777c
 #EXTINF:-1 group-title="Otros" tvg-id="ORF 1 HD [DE]" tvg-logo="" ,ORF 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 group-title="Otros" tvg-id="1 TV Georgia" tvg-logo="" ,1 TV Georgia
+#EXTINF:-1 group-title="Otros" tvg-id="1 TV Georgia" tvg-logo="https://i.ytimg.com/vi/Kw0KhiO4ASE/maxresdefault.jpg" ,1 TV Georgia
 http://127.0.0.1:6878/ace/getstream?id=61ff03eb70886d705a5176cb97a86936c3cd09f6
-#EXTINF:-1 group-title="Otros" tvg-id="ANT 1" tvg-logo="" ,ANT 1
+#EXTINF:-1 group-title="Otros" tvg-id="ANT 1" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/04_ANT1-TV.jpg" ,ANT 1
 http://127.0.0.1:6878/ace/getstream?id=4cee0a14083d14caf86bd9a7e91ef651f1b94106
 #EXTINF:-1 group-title="Otros" tvg-id="BBC ONE" tvg-logo="" ,BBC ONE
 http://127.0.0.1:6878/ace/getstream?id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-#EXTINF:-1 group-title="Otros" tvg-id="FOX Sports 1 HD [US]" tvg-logo="" ,FOX Sports 1 HD [US]
+#EXTINF:-1 group-title="Otros" tvg-id="FOX Sports 1 HD [US]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" ,FOX Sports 1 HD [US]
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
