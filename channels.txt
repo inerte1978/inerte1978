@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
 #EXTINF:-1 group-title="Adestacado" tvg-id="Evento 4K D" tvg-logo="https://previews.123rf.com/images/mickallnice/mickallnice1703/mickallnice170300017/74629942-ni%C3%B1o-de-f%C3%BAtbol-de-dibujos-animados-vector-e-ilustraci%C3%B3n-.jpg" ,4K Barsa-Sevilla
-http://127.0.0.1:6878/ace/getstream?id=8c9b1644fd4766c62935822f5c50a0f044125e1b
-#EXTINF:-1 group-title="Adestacado" tvg-id="Evento F" tvg-logo="https://i.pinimg.com/736x/e0/a7/ef/e0a7ef6f2e889ec609ec075278e9e3b8.jpg" ,Obradoiro-Bilbao FHD
-http://127.0.0.1:6878/ace/getstream?id=f99f8d0c51b2f46e6e212725919b326ca6916e8c
+http://127.0.0.1:6878/ace/getstream?id=acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
 http://127.0.0.1:6878/ace/getstream?id=8c9b1644fd4766c62935822f5c50a0f044125e1b
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
