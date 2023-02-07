@@ -15,8 +15,8 @@ http://127.0.0.1:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
 http://127.0.0.1:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa SD L
 http://127.0.0.1:6878/ace/getstream?id=3ce776c6eac31081239903cd45c152b27f95af63
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA FHD 
-http://127.0.0.1:6878/ace/getstream?id=9d7847872dc7a44774a3b44f7a379220a7a1b024
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA M" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA FHD 
+http://127.0.0.1:6878/ace/getstream?id=b3387faf3584c9cf974cd1a00f19c055a4cd2e42
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 1080 L" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 1080 L" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga FHD
@@ -77,8 +77,8 @@ http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga 720 2 L" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 2 HD
 http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://assets.laliga.com/assets/2022/08/04/large/47d9e332821e7abb3bb7fdbf05f4b66a.png" ,LaLiga SmartbankTV FHD
-http://127.0.0.1:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M" tvg-logo="https://assets.laliga.com/assets/2022/08/04/large/47d9e332821e7abb3bb7fdbf05f4b66a.png" ,LaLiga SmartbankTV FHD
+http://127.0.0.1:6878/ace/getstream?id=5845e933e8825bae86582c1b41e96b4e579d5dd2
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 1080 L" tvg-logo="https://assets.laliga.com/assets/2022/08/04/large/47d9e332821e7abb3bb7fdbf05f4b66a.png" ,LaLiga SmartbankTV FHD
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 720 L" tvg-logo="https://assets.laliga.com/assets/2022/08/04/large/47d9e332821e7abb3bb7fdbf05f4b66a.png" ,LaLiga SmartbankTV HD
