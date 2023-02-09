@@ -197,6 +197,8 @@ http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="TDT" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080 L
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="TDT" tvg-id="TELECINCO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,Telecinco 1080 L
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga UHD Search" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" ,Sky Sport Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 group-title="Sky" tvg-id="Sky Bundesliga HD Search" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png" ,Sky Sport Bundesliga 1
