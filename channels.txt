@@ -5,18 +5,6 @@ http://127.0.0.1:6878/ace/getstream?id=acd1719e5ef4726c65b4999a914a3451723273a8
 http://127.0.0.1:6878/ace/getstream?id=9d7847872dc7a44774a3b44f7a379220a7a1b024
 #EXTINF:-1 group-title="Adestacado" tvg-id="Evento Rally" tvg-logo="https://w7.pngwing.com/pngs/136/576/png-transparent-rallying-world-rally-championship-pocket-rally-computer-icons-others-black-rallying-rally-raid.png" ,Rally Suecia Re
 http://127.0.0.1:6878/ace/getstream?id=c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
-http://127.0.0.1:6878/ace/getstream?id=8c9b1644fd4766c62935822f5c50a0f044125e1b
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
-http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
-http://127.0.0.1:6878/ace/getstream?id=c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 L
-http://127.0.0.1:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 720 L
-http://127.0.0.1:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
-#EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa SD L
-http://127.0.0.1:6878/ace/getstream?id=3ce776c6eac31081239903cd45c152b27f95af63
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA M" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA FHD 
 http://127.0.0.1:6878/ace/getstream?id=b3387faf3584c9cf974cd1a00f19c055a4cd2e42
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 1080 L" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga FHD
