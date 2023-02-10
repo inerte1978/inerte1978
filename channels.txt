@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
-#EXTINF:-1 group-title="Adestacado" tvg-id="Evento 4K D" tvg-logo="https://previews.123rf.com/images/mickallnice/mickallnice1703/mickallnice170300017/74629942-ni%C3%B1o-de-f%C3%BAtbol-de-dibujos-animados-vector-e-ilustraci%C3%B3n-.jpg" ,4K
+#EXTINF:-1 group-title="Adestacado" tvg-id="Evento 4K D" tvg-logo="https://previews.123rf.com/images/mickallnice/mickallnice1703/mickallnice170300017/74629942-ni%C3%B1o-de-f%C3%BAtbol-de-dibujos-animados-vector-e-ilustraci%C3%B3n-.jpg" ,4k
 http://127.0.0.1:6878/ace/getstream?id=acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 group-title="Adestacado" tvg-id="Evento Obradoiro" tvg-logo="https://i.pinimg.com/736x/e0/a7/ef/e0a7ef6f2e889ec609ec075278e9e3b8.jpg" ,Obradoiro- 
 http://127.0.0.1:6878/ace/getstream?id=9d7847872dc7a44774a3b44f7a379220a7a1b024
