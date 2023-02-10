@@ -4,7 +4,7 @@ http://127.0.0.1:6878/ace/getstream?id=acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 group-title="Adestacado" tvg-id="Evento Obradoiro" tvg-logo="https://i.pinimg.com/736x/e0/a7/ef/e0a7ef6f2e889ec609ec075278e9e3b8.jpg" ,Obradoiro- 
 http://127.0.0.1:6878/ace/getstream?id=9d7847872dc7a44774a3b44f7a379220a7a1b024
 #EXTINF:-1 group-title="Adestacado" tvg-id="Evento Rally" tvg-logo="https://w7.pngwing.com/pngs/136/576/png-transparent-rallying-world-rally-championship-pocket-rally-computer-icons-others-black-rallying-rally-raid.png" ,Rally Suecia 
-http://127.0.0.1:6878/ace/getstream?id=6298f5718fb4c5f6cc43c19a5b51147107fa18d2
+http://127.0.0.1:6878/ace/getstream?id=c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
 http://127.0.0.1:6878/ace/getstream?id=8c9b1644fd4766c62935822f5c50a0f044125e1b
 #EXTINF:-1 group-title="SupercopaEspaña" tvg-id="Movistar Supercopa" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/M_SuperCopa_Negro_FONDO-BLANCO-e1672672243693-1024x207.png" ,Movistar Supercopa 1080 Multi L
